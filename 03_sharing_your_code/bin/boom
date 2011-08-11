@@ -1,0 +1,4 @@
+#!/usr/bin/env jruby
+require 'rubygems'
+require 'boom'
+Boom::Command.execute(*ARGV)
