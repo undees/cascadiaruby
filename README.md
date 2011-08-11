@@ -1,6 +1,8 @@
 # Cascadia Ruby Conf
 
-This repository contains the code examples I presented in my talk, "Playfulness at Work: A Real Serious Message(tm) with Ruby as the Medium" at Cascadia Ruby Conf 2011.  [Video][video] and [slides][slides] are available (or just scroll down).
+This repository contains the code examples I presented in my talk, "Playfulness at Work: A Real Serious Message(tm) with Ruby as the Medium" at Cascadia Ruby Conf 2011.
+
+[Video][video] | [Slides][slides]
 
 Here's what's in the various subdirectories:
 
@@ -19,20 +21,6 @@ Here's what's in the various subdirectories:
 4. Deploying Your Software to Honest-to-goodness Paying Customers
 
    The next step after building standalone Ruby programs is building installers.  This section was a quick exploration of the following question: what would it take to transform the [Rails Installer][rails] into a custom installer for a command-line app?
-
-## Video
-
-<video id="html5-player" controls poster="http://confreaks.net/system/videos/images/616/preview/vlcsnap-2011-08-03-10h50m32s192.png?1312393878">
-  <source src="http://confreaks.net/system/assets/datas/1798/original/616-cascadiaruby2011-playfulness-at-work-a-real-serious-messagetm-with-ruby-as-the-medium-small.mp4" />
-</video>
-
-## Slides
-
-<object id="__sse8822158" width="425" height="355">
-  <param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=playfulnessatwork-110810180811-phpapp02&rel=0&stripped_title=playfulness-at-work&userName=undees" />
-  <param name="allowFullScreen" value="true"/> <param name="allowScriptAccess" value="always"/>
-  <embed name="__sse8822158" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=playfulnessatwork-110810180811-phpapp02&rel=0&stripped_title=playfulness-at-work&userName=undees" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed>
-</object>
 
 [boom]:   http://zachholman.com/boom
 [rails]:  http://railsinstaller.org
